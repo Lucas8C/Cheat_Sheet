@@ -1,0 +1,37 @@
+h1 {
+    color: coral;
+    text-align: center;
+}
+
+h2 {
+    color: coral;
+    text-align: center;
+}
+
+* {
+    background-color: rgb(241, 188, 216);
+    font-family: 'Inconsolata', sans-serif;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+table {
+    margin: auto auto;
+}
+
+th,
+td {
+    text-align: center;
+}
+
+.code {
+    background-color: beige;
+}
+
+.Data {
+    background-color: lightskyblue;
+}
